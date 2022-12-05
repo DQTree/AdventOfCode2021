@@ -29,8 +29,8 @@ replay_pid*
 *.idea
 
 # Kotlin setup files #
-.gradle
-build
-gradle
-**/*gradle
-.idea/!.gitignore
+/.gradle
+/build
+/gradle
+/**/*gradle
+/.idea/!.gitignore
